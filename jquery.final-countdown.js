@@ -14,10 +14,8 @@
 
     var element;
     var callbackFunction;
-    var ut1;
     $.fn.final_countdown = function(options, callback) {
         element = $(this);
-        ut1 = Instant.now().getEpochSecond();
 
         // Element is not visibile
         if ( ! element.is(':visible') ) {
@@ -27,7 +25,7 @@
         var defaults = $.extend({
             start: '1648843200',
             end: '1650052800',
-            now: ut1,
+            now: Instant.now().getEpochSecond(),
             selectors: {
                 value_seconds: '.clock-seconds .val',
                 canvas_seconds: 'canvas-seconds',
