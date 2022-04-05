@@ -25,7 +25,7 @@
         var defaults = $.extend({
             start: '1648843200',
             end: '1650052800',
-            now:  'https://time.is/Unix_time',
+            now:  System.currentTimeMillis(),
             selectors: {
                 value_seconds: '.clock-seconds .val',
                 canvas_seconds: 'canvas-seconds',
