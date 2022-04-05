@@ -25,7 +25,7 @@
         var defaults = $.extend({
             start: '1648843200',
             end: '1650052800',
-            now: Instant.now().getEpochSecond(),
+            now:  new Long(now.getTime()/1000),
             selectors: {
                 value_seconds: '.clock-seconds .val',
                 canvas_seconds: 'canvas-seconds',
