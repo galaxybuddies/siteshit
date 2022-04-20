@@ -1,0 +1,68 @@
+{
+    "name": "New psy",
+    "symbol": "newpsy",
+    "description": "Utility NFT",
+    "seller_fee_basis_points": 2000,
+    "edition": "Limited",
+    "image": "https://cdn.discordapp.com/attachments/966379469092835398/966382915179118592/0.mp4",
+    "attributes": [
+      {
+        "trait_type": "Key",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Jewels",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Outer Meterial",
+        "value": "Black Marble"
+      },
+      {
+        "trait_type": "Inside Material",
+        "value": "White Marble"
+      },
+      {
+        "trait_type": "Cap",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Ornament",
+        "value": "White Dots"
+      },
+      {
+        "trait_type": "Cap Light",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Stem",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Ground Type",
+        "value": "Grass"
+      }
+    ],
+    "properties": {
+      "creators": [
+        {
+          "address": "FnFPYp8X22dFGeeM6RpRsFg5w76Po7XskNAUfDaP98QT",
+          "share": 40
+        },
+        {
+          "address": "85o2nA3xgBHaTZ5NCAAwjHekcJAgQoXCz7buHC1NWtKw",
+          "share": 30
+        },
+        {
+          "address": "JCGufGvvQ1DY6kvC8Q6TT5qtkDe8Z6fwgW1hEA8Vfe2W",
+          "share": 30
+        }
+      ],
+      "files": [
+        {
+          "uri": "https://cdn.discordapp.com/attachments/966379469092835398/966382915179118592/0.mp4",
+          "type": "video/mp4"
+        }
+      ]
+    }
+}
