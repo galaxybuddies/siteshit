@@ -4,7 +4,7 @@
     "description": "Utility NFT",
     "seller_fee_basis_points": 2000,
     "edition": "Limited",
-    "image": "https://cdn.discordapp.com/attachments/966379469092835398/966382915179118592/0.mp4",
+    "video": "https://cdn.discordapp.com/attachments/966379469092835398/966382915179118592/0.mp4",
     "attributes": [
       {
         "trait_type": "Key",
