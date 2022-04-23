@@ -1,0 +1,23 @@
+{
+    "name": "Naltone",
+    "symbol": "NLE",
+    "description": "Famous Nft Art In Blockchain",
+    "seller_fee_basis_points": 0,
+    "image": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2022/04/GettyImages-1305636257.jpg?strip=1",
+    "external_url": "https://www.nwahomepage.com",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2022/04/GettyImages-1305636257.jpg?strip=1",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "BtrAeoJzxi34U163vVyxr8YpKq3YWYAC9ijhjkbSzZMD",
+                "share": 100
+            }
+        ]
+    }
+}
