@@ -1,0 +1,35 @@
+{
+    "name": "Shrimp Society Genesis Mint Pass",
+    "symbol": "SSMP",
+    "description": "Given to the first minters of the Shrimp Society NFT collection, the Genesis Mint Pass gives you preferred access to future mints of the Shrimp Society NFT and derivatives.",
+    "seller_fee_basis_points": 10000,
+    "image": "https://arweave.net/9yD7PBHNfMzAg2Vq5Vi7dbncZc-LqmDrI9sIToSCBAc",
+    "attributes": [
+        {
+            "trait_type": "Generation",
+            "value": "1"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "CRAAXezBZhfKMwPnJT52LiaT6LZGZb1fk2HY5GSrn2hJ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://arweave.net/9yD7PBHNfMzAg2Vq5Vi7dbncZc-LqmDrI9sIToSCBAc",
+                "type": "image/gif"
+            }
+        ]
+    },
+    "collection": {
+        "name": "Shrimp Society Genesis Mint Pass",
+        "family": "Shrimp Society Genesis Mint Pass"
+    }
+}
