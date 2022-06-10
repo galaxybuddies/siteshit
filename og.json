@@ -1,0 +1,31 @@
+{
+  "name": "CCC OG TOKEN",
+  "symbol": "CCCOG",
+  "description": "This token allows you to mint in the PRE sale of CCC",
+  "seller_fee_basis_points": 10000,
+  "image": "https://arweave.net/GoWvqamYVyQ4kBNN_KQfDtjjb47m-RQMjd7DJ_iYSec",
+  "attributes": [
+      {
+          "trait_type": "Type",
+          "value": "OG"
+      }
+  ],
+  "properties": {
+      "creators": [
+          {
+              "address": "9MQnxys5HsbLKVs2TfP4r65zYb1dnLry6WBx6DMXJ5US",
+              "share": 100
+          }
+      ],
+      "files": [
+          {
+              "uri": "https://arweave.net/GoWvqamYVyQ4kBNN_KQfDtjjb47m-RQMjd7DJ_iYSec",
+              "type": "image/png"
+          }
+      ]
+  },
+  "collection": {
+      "name": "CCC OG TOKEN",
+      "family": "CCC OG TOKEN"
+  }
+}
