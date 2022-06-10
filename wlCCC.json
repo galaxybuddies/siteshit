@@ -1,9 +1,9 @@
 {
-  "name": "CCC WL TOKEN",
-  "symbol": "CCCWL",
-  "description": "This token allows you to mint in the whitelist sale of CCC",
+  "name": "random idk",
+  "symbol": "random",
+  "description": "random",
   "seller_fee_basis_points": 10000,
-  "image": "https://arweave.net/sOj1uOD-3IFG52mb4J4W51_tLVB583zAXsAAXIvAVgA",
+  "image": "",
   "attributes": [
       {
           "trait_type": "Type",
@@ -19,13 +19,13 @@
       ],
       "files": [
           {
-              "uri": "https://arweave.net/sOj1uOD-3IFG52mb4J4W51_tLVB583zAXsAAXIvAVgA",
+              "uri": "",
               "type": "image/png"
           }
       ]
   },
   "collection": {
-      "name": "CCC WL TOKEN",
-      "family": "CCC WL TOKEN"
+      "name": "random",
+      "family": "random"
   }
 }
